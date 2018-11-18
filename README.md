@@ -12,3 +12,6 @@ Ejemplos de HTML básico.
 - [HTML - Ejemplo 8 - Imágenes](https://codepen.io/ijaureguialzo/pen/xQLXqK/left?editors=1000).
 - [HTML - Ejemplo 9 - Tablas](https://codepen.io/ijaureguialzo/pen/Oajxgx/left?editors=1000).
 - [HTML - Ejemplo 10 - Tablas - Fusionar celdas](https://codepen.io/ijaureguialzo/pen/GwvMxv/left?editors=1000).
+- [HTML - Ejemplo 11 - Hipervínculos](https://codepen.io/ijaureguialzo/pen/aQLovM/left?editors=1000).
+- [HTML - Ejemplo 12 - Enlaces internos](https://codepen.io/ijaureguialzo/pen/eQGOzP/left?editors=1000).
+- [HTML - Ejemplo 13 - Comentarios](https://codepen.io/ijaureguialzo/pen/ZmXzLq/left?editors=1000).
