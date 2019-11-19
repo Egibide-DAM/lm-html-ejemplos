@@ -1,6 +1,8 @@
-# Lenguajes de marcas 2018
+# Lenguajes de marcas
 
-Ejemplos de HTML básico.
+Recopilación de ejemplos sobre HTML alojados en [CodePen](https://codepen.io).
+
+## HTML básico
 
 - [HTML - Ejemplo 1 - Primera página](https://codepen.io/ijaureguialzo/pen/dQYarR/left?editors=1000).
 - [HTML - Ejemplo 2 - Títulos](https://codepen.io/ijaureguialzo/pen/oQjVXe/left?editors=1000).
@@ -16,7 +18,7 @@ Ejemplos de HTML básico.
 - [HTML - Ejemplo 12 - Enlaces internos](https://codepen.io/ijaureguialzo/pen/eQGOzP/left?editors=1000).
 - [HTML - Ejemplo 13 - Comentarios](https://codepen.io/ijaureguialzo/pen/ZmXzLq/left?editors=1000).
 
-Ejemplos sobre cómo estructuras los documentos HTML con etiquetas semánticas.
+## Etiquetas semánticas
 
 - [HTML - Ejemplo 14 - Estructura DIVs](https://codepen.io/ijaureguialzo/pen/WYzRqz/left?editors=1000).
 - [HTML - Ejemplo 15a - Secciones HTML4](https://codepen.io/ijaureguialzo/pen/EOEWVY/left?editors=1000).
@@ -26,7 +28,7 @@ Ejemplos sobre cómo estructuras los documentos HTML con etiquetas semánticas.
 - [HTML - Ejemplo 18 - Contenido principal](https://codepen.io/ijaureguialzo/pen/qQorgm/left?editors=1000).
 - [HTML - Ejemplo 19 - Información adicional](https://codepen.io/ijaureguialzo/pen/wQmJLN/left?editors=1000).
 
-Ejemplos sobre formularios HTML.
+## Formularios HTML
 
 - [Formularios - Ejemplo 1 - Componentes básicos](https://codepen.io/ijaureguialzo/pen/KrXKeK/left?editors=1000).
 - [Formularios - Ejemplo 2 - Propiedad name](https://codepen.io/ijaureguialzo/pen/mQzwRX/left?editors=1000).
